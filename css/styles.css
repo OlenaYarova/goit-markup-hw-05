@@ -687,9 +687,7 @@ a {
 }
 
 .backdrop-field {
-  display: flex;
   flex-direction: column;
-  padding: 8px;
   gap: 4px;
   margin-bottom: 8px;
 }
